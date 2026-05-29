@@ -4,7 +4,7 @@ Portfolio personal desarrollado como práctica del módulo de Entornos de Desarr
 
 ## 🌐 URL publicada
 
-> **https://juancr21.github.io/portfolio/**
+> **https://juancr21.github.io/portfolio-juan/**
 
 ## 🛠 Tecnologías usadas
 
